@@ -1,0 +1,8 @@
+C:\Users\Usae\source\repos\Example 3 manipulated\Example 3 manipulated\bin\Debug\Example 3 manipulated.exe.config
+C:\Users\Usae\source\repos\Example 3 manipulated\Example 3 manipulated\bin\Debug\Example 3 manipulated.exe
+C:\Users\Usae\source\repos\Example 3 manipulated\Example 3 manipulated\bin\Debug\Example 3 manipulated.pdb
+C:\Users\Usae\source\repos\Example 3 manipulated\Example 3 manipulated\obj\Debug\Example 3 manipulated.csproj.AssemblyReference.cache
+C:\Users\Usae\source\repos\Example 3 manipulated\Example 3 manipulated\obj\Debug\Example 3 manipulated.csproj.CoreCompileInputs.cache
+C:\Users\Usae\source\repos\Example 3 manipulated\Example 3 manipulated\obj\Debug\Example 3 manipulated.exe
+C:\Users\Usae\source\repos\Example 3 manipulated\Example 3 manipulated\obj\Debug\Example 3 manipulated.pdb
+C:\Users\Usae\source\repos\Example 3 manipulated\Example 3 manipulated\obj\Debug\Example 3 manipulated.exe.config
