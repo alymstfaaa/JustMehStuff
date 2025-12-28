@@ -19,18 +19,10 @@ namespace Example_3_manipulated
             student1.Rank = "Junior Intelligence Officer";
             student1.Location = "31.4396399, 73.053934 C3Q3+VH3 Faisalabad";
 
-            //Teacher teacher1 = new Teacher();
-            //teacher1.Name = "Sir Zeeshan";
-            //teacher1.Age = 45;
-            //teacher1.Subject = "OOP";
-            //teacher1.YearsExperience = 15;
-
-            student1.Greet();  // "Hello, my name is Ali"
-            //teacher1.Greet();  // "Hello, my name is Zeeshan"
+            student1.Greet();  // "Hello Ali! "
 
             student1.Secracy();  // "This is a national secret!"
-            //teacher1.Teach();  // "Zeeshan is teaching OOP"
-
+            
             Console.Write("\nEnter security code: ");
             Console.ReadLine();
             
@@ -42,7 +34,7 @@ namespace Example_3_manipulated
             Console.WriteLine("Access Granted!");
             Console.ReadLine();
 
-            Console.WriteLine("\nAgent Information:");
+            Console.WriteLine("\nAGENT INFORMATION:");
             Console.WriteLine($"Name: {student1.Name}");
             Console.WriteLine($"Pretending to be: {student1.Pretend}");
             Console.WriteLine($"Age: {student1.Age}");
@@ -57,3 +49,4 @@ namespace Example_3_manipulated
         }
     }
 }
+
